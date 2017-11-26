@@ -1,7 +1,7 @@
 # Pure Assembly DOS FAT example program
 
 This is a 25 year old school project. Just posted it on the off chance that 
-someone might want be able to use it as an example.
+someone might want to use it as an example.
 
 I wrote this in assembly to see if it were substantially more difficult than 
 using C. It wasn't too bad. I broke most of the assembly up into modestly 
